@@ -1,3 +1,4 @@
+# Opdracht: herhaal aanvallen met een while-loop
 # Monster en speler
 monster_health = 150
 player_damage = 25
