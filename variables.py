@@ -1,3 +1,4 @@
+# Opdracht: producten en totale omzet berekenen
 # Producten en prijzen
 product_1 = "Laptop"
 prijs_1 = 800
