@@ -1,3 +1,4 @@
+# Opdracht: productenlijst aanpassen en controleren
 # Boodschappenlijst maken
 boodschappen = ["Appel", "Banaan", "Melk", "Brood", "Kaas"]
 
