@@ -1,3 +1,4 @@
+# Opdracht: cijfers en gemiddelde controleren
 # Cijfers van drie vakken
 cijfer_1 = 7
 cijfer_2 = 6
